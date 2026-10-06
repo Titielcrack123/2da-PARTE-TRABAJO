@@ -1,0 +1,11 @@
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.DAL\bin\Debug\net10.0\FlexSpace.DAL.deps.json
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.DAL\bin\Debug\net10.0\FlexSpace.DAL.dll
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.DAL\bin\Debug\net10.0\FlexSpace.DAL.pdb
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.DAL\obj\Debug\net10.0\FlexSpace.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.DAL\obj\Debug\net10.0\FlexSpace.DAL.AssemblyInfoInputs.cache
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.DAL\obj\Debug\net10.0\FlexSpace.DAL.AssemblyInfo.cs
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.DAL\obj\Debug\net10.0\FlexSpace.DAL.csproj.CoreCompileInputs.cache
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.DAL\obj\Debug\net10.0\FlexSpace.DAL.dll
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.DAL\obj\Debug\net10.0\refint\FlexSpace.DAL.dll
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.DAL\obj\Debug\net10.0\FlexSpace.DAL.pdb
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.DAL\obj\Debug\net10.0\ref\FlexSpace.DAL.dll

@@ -1,0 +1,11 @@
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.BLL\bin\Debug\net10.0\FlexSpace.BLL.deps.json
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.BLL\bin\Debug\net10.0\FlexSpace.BLL.dll
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.BLL\bin\Debug\net10.0\FlexSpace.BLL.pdb
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.BLL\obj\Debug\net10.0\FlexSpace.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.BLL\obj\Debug\net10.0\FlexSpace.BLL.AssemblyInfoInputs.cache
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.BLL\obj\Debug\net10.0\FlexSpace.BLL.AssemblyInfo.cs
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.BLL\obj\Debug\net10.0\FlexSpace.BLL.csproj.CoreCompileInputs.cache
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.BLL\obj\Debug\net10.0\FlexSpace.BLL.dll
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.BLL\obj\Debug\net10.0\refint\FlexSpace.BLL.dll
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.BLL\obj\Debug\net10.0\FlexSpace.BLL.pdb
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.BLL\obj\Debug\net10.0\ref\FlexSpace.BLL.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FlexSpace.BLL/FlexSpace.BLL.csproj" />
+  <Project Path="FlexSpace.DAL/FlexSpace.DAL.csproj" />
+  <Project Path="FlexSpace.Entidades/FlexSpace.Entidades.csproj" Id="5d35a300-c83a-4d9b-98f1-37354bdc81db" />
+  <Project Path="FlexSpace.UI/FlexSpace.UI.csproj" />
+</Solution>

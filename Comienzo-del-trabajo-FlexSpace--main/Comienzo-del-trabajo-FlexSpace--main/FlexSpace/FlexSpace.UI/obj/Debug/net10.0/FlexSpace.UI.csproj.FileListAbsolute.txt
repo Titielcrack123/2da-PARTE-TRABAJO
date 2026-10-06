@@ -1,0 +1,4 @@
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.UI\obj\Debug\net10.0\FlexSpace.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.UI\obj\Debug\net10.0\FlexSpace.UI.AssemblyInfoInputs.cache
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.UI\obj\Debug\net10.0\FlexSpace.UI.AssemblyInfo.cs
+C:\Users\shpctac101ab\Downloads\Comienzo-del-trabajo-FlexSpace--main\Comienzo-del-trabajo-FlexSpace--main\FlexSpace\FlexSpace.UI\obj\Debug\net10.0\FlexSpace.UI.csproj.CoreCompileInputs.cache
